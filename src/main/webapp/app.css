@@ -1,3 +1,8 @@
+.navbar-brand {
+    max-width: 50%;
+}
+
+
 body{
     background-color:  #ffe329;
 }
@@ -8,4 +13,8 @@ body{
 
 h1, h3 {
     color: #633152;
+}
+
+.myLogo{
+    padding: 10px;
 }
